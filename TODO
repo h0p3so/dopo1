@@ -1,0 +1,19 @@
+COMMIT			CICLO NO	TASK
+
+1b8ad13			1		implementar canvas con herencia entre las figuras
+3e9f131			1		crear la carretera tan larga como sea solicitada (constructor 1) y pasar paginas
+263a696			1		crear y remover tiendas
+0edc61b			1		crear y remover robots
+0044b61			1		mover robot
+bea4367			1		metodos `reboot`, `stores`, `robots`, ` makeVisible`, `makeInvisible`, `finish`, `ok` y `profit`
+87ab405			2		segundo constructor
+0339173..c6bb1f4	2		metodo 'moveRobots' (maximizar ganancias)
+828a19b 		2		metodos 'emptiedStores' y 'profitPerMove'
+b1b6d7f			2		features: tiendas vaciadas y robot con mas dinero deben verse diferentes
+9260262			2		casos de prueba
+bc85e94			3		todo el ciclo 3
+4d3dd6a			4		creacion de paquetes
+ff7f287			4		diferentes tipos de tiendas
+571b4f3			4		diferentes tipos de robots
+55fb7ac			4		unit tests
+					astah files
